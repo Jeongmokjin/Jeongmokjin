@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
 <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Mokjin's GitHub">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=29f15bF&text=Mokjin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Mokjin's GitHub">
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
