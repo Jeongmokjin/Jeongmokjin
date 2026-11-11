@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mokjin%27s%20GitHub&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer&descSize=22&descAlignY=60&descColor=ffffff" alt="Mokjin's GitHub" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3E5FC,100:03A9F4&height=220&section=header&text=Mokjin%27s%20GitHub&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer&descSize=22&descAlignY=60&descColor=ffffff" alt="Mokjin's GitHub" width="100%" />
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7DC0F6&center=true&vCenter=true&width=640&height=50&lines=Hello%2C+I'm+Mokjin+%F0%9F%91%8B;%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
 </a>
